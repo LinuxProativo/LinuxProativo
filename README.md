@@ -18,7 +18,7 @@ O repositório LinuxProativo possui principalmente:
 * 📀 **Programas Empacotados em AppImage**
 * 🐧 **Utilitários e Programas para Linux e Slackware (C/C++ e Shell Script)**
 
-## ⭐ Principais Projetos
+# ⭐ Principais Projetos
 
 ✨✨✨ Esses são os Projetos mais relavantes em desenvolvimento.
 <br><br>
@@ -28,7 +28,7 @@ O repositório LinuxProativo possui principalmente:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ckdeps&theme=tokyonight)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=Rex&theme=tokyonight)
 
-## 🦀 Projetos de Crates em Rust
+# 🦀 Projetos de Crates em Rust
 
 ✨✨✨ Todas as crates estão disponíveis em: https://crates.io/users/LinuxProativo
 <br><br>
@@ -40,7 +40,12 @@ O repositório LinuxProativo possui principalmente:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=tar_minimal&theme=tokyonight&description_lines_count=2)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=walkdir_minimal&theme=tokyonight&description_lines_count=2)
 
-## 🐍 Contribuições
+# 🖥️ Stacks
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,qt,css,html,js,react,vite,py,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode)](https://skillicons.dev)
+
+# 🐍 Atividades no GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
