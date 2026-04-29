@@ -17,3 +17,10 @@ O repositório LinuxProativo possui principalmente:
 * 🦀 **Crates para o ecossistema Rust**
 * 📀 **Programas empacotados em AppImage**
 * 🐧 **Utilitários e programas para Linux e Slackware (C/C++ e Shell Script)**
+
+## Principais Projetos
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ALPack&show_icons=true&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ArchBox&show_icons=true&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ckdeps&show_icons=true&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=Rex&show_icons=true&theme=tokyonight)
