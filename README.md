@@ -1,5 +1,7 @@
 # 🐧 Repositório do Canal LinuxProativo!
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinuxProativo&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)
+
 Aqui você vai encontrar projetos, experimentos e ideias voltadas para desempenho, simplicidade e praticidade.
 
 - 🎯 **Objetivo:**  
