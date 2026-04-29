@@ -39,3 +39,11 @@ O repositório LinuxProativo possui principalmente:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=rldd_minimal&theme=tokyonight&description_lines_count=2)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=tar_minimal&theme=tokyonight&description_lines_count=2)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=walkdir_minimal&theme=tokyonight&description_lines_count=2)
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+</picture>
