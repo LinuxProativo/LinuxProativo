@@ -40,15 +40,17 @@ O repositório LinuxProativo possui principalmente:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=tar_minimal&theme=tokyonight&description_lines_count=2)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=walkdir_minimal&theme=tokyonight&description_lines_count=2)
 
-# 🖥️ Stacks
+# 🖥️ Stacks e Atividades
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,cpp,qt,css,html,js,react,vite,py,rust)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,vscode)](https://skillicons.dev)
-
-# 🐍 Atividades no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <br>
+    <img src="https://skillicons.dev/icons?i=linux,bash,qt,react,vite,py,c,cpp,css,html,js,rust" />
+    <br>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LinuxProativo/LinuxProativo/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
