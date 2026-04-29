@@ -12,12 +12,11 @@ Aqui você vai encontrar projetos, experimentos e ideias voltadas para desempenh
   Tecnologias focadas em portabilidade, isolamento e independência de distro.
 
 O repositório LinuxProativo possui principalmente:
-
-* 🛠️ **Ferramentas destinadas ao desenvolvimento de AppImage**
-* ⚙️ **Ferramentas destinadas ao desenvolvimento de binários estáticos/portáteis**
-* 🦀 **Crates para o ecossistema Rust**
-* 📀 **Programas empacotados em AppImage**
-* 🐧 **Utilitários e programas para Linux e Slackware (C/C++ e Shell Script)**
+* 🛠️ **Ferramentas Destinadas ao Desenvolvimento de AppImage**
+* ⚙️ **Ferramentas Destinadas ao Desenvolvimento de Binários Estáticos/Portáteis**
+* 🦀 **Crates para o Ecossistema Rust**
+* 📀 **Programas Empacotados em AppImage**
+* 🐧 **Utilitários e Programas para Linux e Slackware (C/C++ e Shell Script)**
 
 ## ⭐ Principais Projetos
 
