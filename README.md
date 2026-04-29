@@ -19,9 +19,24 @@ O repositório LinuxProativo possui principalmente:
 * 📀 **Programas empacotados em AppImage**
 * 🐧 **Utilitários e programas para Linux e Slackware (C/C++ e Shell Script)**
 
-## Principais Projetos
+## ⭐ Principais Projetos
+
+✨✨✨ Esses são os Projetos mais relavantes em desenvolvimento.
+<br><br>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ALPack&theme=tokyonight)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ArchBox&theme=tokyonight)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ckdeps&theme=tokyonight)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=Rex&theme=tokyonight)
+
+## 🦀 Projetos de Crates em Rust
+
+✨✨✨ Todas as crates estão disponíveis em: https://crates.io/users/LinuxProativo
+<br><br>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=obliterate&theme=tokyonight&description_lines_count=2)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=overlayfs_fuse&theme=tokyonight&description_lines_count=2)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=recursive_copy&theme=tokyonight&description_lines_count=2)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=rldd_minimal&theme=tokyonight&description_lines_count=2)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=tar_minimal&theme=tokyonight&description_lines_count=2)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=walkdir_minimal&theme=tokyonight&description_lines_count=2)
