@@ -20,7 +20,7 @@ O repositório LinuxProativo possui principalmente:
 
 ## Principais Projetos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ALPack&show_icons=true&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ArchBox&show_icons=true&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ckdeps&show_icons=true&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=Rex&show_icons=true&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ALPack&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ArchBox&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ckdeps&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=Rex&theme=tokyonight)
