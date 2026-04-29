@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🐧 Repositório do Canal LinuxProativo!
 
-<!--
-**LinuxProativo/LinuxProativo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui você vai encontrar projetos, experimentos e ideias voltadas para desempenho, simplicidade e praticidade.
 
-Here are some ideas to get you started:
+- 🎯 **Objetivo:**  
+  Simplificar o uso e distribuição de aplicações no Linux, sem depender do sistema base.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 **Diferencial:**  
+  Tecnologias focadas em portabilidade, isolamento e independência de distro.
+
+O repositório LinuxProativo possui principalmente:
+
+* 🛠️ **Ferramentas destinadas ao desenvolvimento de AppImage**
+* ⚙️ **Ferramentas destinadas ao desenvolvimento de binários estáticos/portáteis**
+* 🦀 **Crates para o ecossistema Rust**
+* 📀 **Programas empacotados em AppImage**
+* 🐧 **Utilitários e programas para Linux e Slackware (C/C++ e Shell Script)**
