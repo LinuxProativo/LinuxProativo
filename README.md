@@ -1,6 +1,6 @@
 # 🐧 Repositório do Canal LinuxProativo!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxProativo&layout=compact&theme=tokyonight)
+![Top Langs](profile/top-langs.svg)
 ![GitHub stats](profile/stats.svg)
 
 Aqui você vai encontrar projetos, experimentos e ideias voltadas para desempenho, simplicidade e praticidade.
@@ -23,8 +23,8 @@ O repositório LinuxProativo possui principalmente:
 ✨✨✨ Esses são os Projetos mais relavantes em desenvolvimento.
 <br><br>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ALPack&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ArchBox&theme=tokyonight)
+![Readme Card](profile/ALPack.svg)
+![Readme Card](profile/ArchBox.svg)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=ckdeps&theme=tokyonight)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LinuxProativo&repo=Rex&theme=tokyonight)
 
