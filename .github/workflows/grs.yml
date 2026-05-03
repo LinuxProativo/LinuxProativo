@@ -32,7 +32,7 @@ jobs:
         with:
           card: pin
           options: username=LinuxProativo&repo=ALPack&theme=tokyonight
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          path: profile/ALPack.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
@@ -40,7 +40,7 @@ jobs:
         with:
           card: pin
           options: username=LinuxProativo&repo=ArchBox&theme=tokyonight
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          path: profile/ArchBox.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
