@@ -19,6 +19,30 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=LinuxProativo&layout=compact&theme=tokyonight
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: ALPack
+          options: username=LinuxProativo&repo=ALPack&theme=tokyonight
+          path: profile/pin-readme-tools-github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: ArchBox
+          options: username=LinuxProativo&repo=ArchBox&theme=tokyonight
+          path: profile/pin-readme-tools-github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"
