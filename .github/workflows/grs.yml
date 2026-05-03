@@ -30,7 +30,7 @@ jobs:
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: ALPack
+          card: pin
           options: username=LinuxProativo&repo=ALPack&theme=tokyonight
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -38,7 +38,7 @@ jobs:
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: ArchBox
+          card: pin
           options: username=LinuxProativo&repo=ArchBox&theme=tokyonight
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
