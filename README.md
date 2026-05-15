@@ -34,7 +34,7 @@ O repositório LinuxProativo possui principalmente:
 <br><br>
 
 ![Readme Card](profile/flexiargs.svg)
-![Readme Card](profile/oblitarate.svg)
+![Readme Card](profile/obliterate.svg)
 ![Readme Card](profile/overlayfs_fuse.svg)
 ![Readme Card](profile/recursive_copy.svg)
 ![Readme Card](profile/rldd_minimal.svg)
