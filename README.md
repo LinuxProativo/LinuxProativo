@@ -20,13 +20,21 @@ O repositório LinuxProativo possui principalmente:
 
 # ⭐ Principais Projetos
 
-✨✨✨ Esses são os Projetos mais relavantes em desenvolvimento.
+✨✨✨ Esses são os Projetos mais relevantes em desenvolvimento.
 <br><br>
 
 ![Readme Card](profile/ALPack.svg)
 ![Readme Card](profile/ArchBox.svg)
-![Readme Card](profile/ckdeps.svg)
+![Readme Card](profile/refn.svg)
 ![Readme Card](profile/Rex.svg)
+
+# 🔵 Projetos para o Slackware
+
+✨✨✨ Esses são Projetos Destinados ao Slackware.
+<br><br>
+
+![Readme Card](profile/ckdeps.svg)
+![Readme Card](profile/Klass.svg)
 
 # 🦀 Projetos de Crates em Rust
 
