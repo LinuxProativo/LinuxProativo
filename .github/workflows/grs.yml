@@ -55,8 +55,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=LinuxProativo&repo=klass&theme=tokyonight&description_lines_count=2
-          path: profile/klass.svg
+          options: username=LinuxProativo&repo=Klass&theme=tokyonight&description_lines_count=2
+          path: profile/Klass.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
